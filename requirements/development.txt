@@ -4,5 +4,5 @@
 black
 
 
-isort>=8.0.1
+isort>=9.0.2
 pre-commit>=4.6.0,<5
