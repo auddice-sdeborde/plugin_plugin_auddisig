@@ -1,0 +1,26 @@
+[general]
+name=Plugin AuddiSIG
+description=Plugin AuddiSIG
+category=None
+hasProcessingProvider=True
+about=Plugin de déploiement des outils SIG Audiccé
+icon=resources/images/default_icon.png
+tags=processing, tools
+
+# credits and contact
+author=Sylvain DEBORDE
+email=sylvain.deborde@auddice.com
+homepage=<TODO>/pages
+repository=<TODO>
+tracker=<TODO>/issues/
+
+# QGIS context
+deprecated=False
+experimental=True
+plugin_dependencies=
+qgisMinimumVersion=3.44.4
+qgisMaximumVersion=4.10.16
+
+# versioning
+version=0.1.0
+changelog=
